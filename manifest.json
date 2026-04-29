@@ -15,9 +15,9 @@
       "purpose": "any"
     },
     {
-      "src": "pwa-512x512.png",
+      "src": "pwa-512x512.png.png",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/png.png",
       "purpose": "any"
     }
   ]
